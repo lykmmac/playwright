@@ -10,6 +10,7 @@ based on yt series "Automation Step by Step"
 
 ## NOTATKEN
 
-[!TIP]
-Playwright Inspector
+> [!TIP]
+> Playwright Inspector
+
 The Playwright Inspector is a **GUI tool** to help you debug your Playwright tests. It allows you to step through your tests, live edit locators, pick locators and see actionability logs.
